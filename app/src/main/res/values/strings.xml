@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">СlickСounter</string>
+    <string name="app_name">Counter</string>
+    <string name="counter">0</string>
+    <string name="reset">Сбросить</string>
+    <string name="result">Ваш результат</string>
+    <string name="done">Готово</string>
 </resources>
